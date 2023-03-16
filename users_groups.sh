@@ -32,3 +32,4 @@ sudo /usr/sbin/usermod -G anewgroup newuser
 
 # quick look at user information
 id
+

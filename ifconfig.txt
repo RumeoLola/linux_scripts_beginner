@@ -1,3 +1,0 @@
-
-# bring network interface up
-$ sudo ifconfig eth0 up 192.168.1.100
